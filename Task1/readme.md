@@ -13,15 +13,15 @@ This project is a calculator implemented in Python which  provides a basic funti
 ## Screenshots and Video
 ### Addition and Subtraction
 
-![Screenshot 1](/screenshot/screenshot1.png)
+![Screenshot 1](screenshot/screenshot1.png)
 
 ### Multiplication and Division
-![Screenshot 2](/screenshot/screenshot2.png)
+![Screenshot 2](screenshot/screenshot2.png)
 
 ### Error Handling
-![Screenshot 3](/screenshot/screenshot3.png)
+![Screenshot 3](screenshot/screenshot3.png)
 
-[Watch the project demo video](/video/demo.mp4)
+[Watch the project demo video](video/demo.mp4)
 
 ### Prerequisites
 

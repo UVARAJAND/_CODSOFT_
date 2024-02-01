@@ -35,11 +35,11 @@ To clone the project consider that **git** is instlled in your system.If not ypu
 
 ```bash
 
-    git clone https://github.com/UVARAJAND/CODSOFT.git
+    git clone https://github.com/UVARAJAND/_CODSOFT_.git
 
-    cd CODSOFT
+    cd _CODSOFT_
 
-    cd calculator
+    cd Task1
 ```
 
 2.Run python program

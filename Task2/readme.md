@@ -16,10 +16,10 @@ It is done in <b>Python rogramming</b>
 ## Screenshots and Video
 ### Sample
 
-![Screenshot 1](screenshot/screenshot1.png)
+![Screenshot 1](screenshot/screenshot1.PNG)
 
 ### Error Handling
-![Screenshot 3](screenshot/screenshot2.png)
+![Screenshot 3](screenshot/screenshot2.PNG)
 
 [Watch the project demo video](video/demo.mp4)
 

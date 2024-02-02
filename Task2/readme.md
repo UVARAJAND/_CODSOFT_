@@ -45,7 +45,7 @@ To clone the project consider that **git** is instlled in your system.If not ypu
 ```
 3. Run python program
 ```bash
-    python password_generatorr.py
+    python password_generator.py
 ```
 ## Contact
 

@@ -37,11 +37,13 @@ To clone the project consider that **git** is instlled in your system.If not ypu
 
     git clone https://github.com/UVARAJAND/_CODSOFT_.git
 
+    cd _CODSOFT_
+
     cd Task2
 ```
 2. Install the requirements
 ```
-    pip install requirements.txt
+    pip install -r requirements.txt
 ```
 3. Run python program
 ```bash
